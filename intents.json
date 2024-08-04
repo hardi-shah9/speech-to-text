@@ -1,0 +1,16 @@
+{"intents": [
+    {"tags": "greetings",
+    "patterns": ["hello","hey","hi","Whats up?"],
+    "responses": ["Hello!","Hey","What can I do for you?"]
+},
+
+{"tags": "Bye",
+    "patterns": ["goodbye","cya","exit","Bye"],
+    "responses": ["Goodbye","have a nice day","Talk to you later"]
+},
+
+{"tags": "name",
+    "patterns": ["what is your name","can you tell me your name","who are you?"],
+    "responses": ["Hello i am your chatbot","your personal assistant"]
+}
+]}
